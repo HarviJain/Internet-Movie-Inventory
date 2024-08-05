@@ -1,6 +1,6 @@
 # 🎬 Internet Movie Inventory
 
-![Demo Image](path_to_your_demo_image.gif)
+![Demo Image](https://github.com/HarviJain/Internet-Movie-Inventory/blob/main/Demo%20Image.png)
 
 [Live Demo](your_live_demo_link_here)
 

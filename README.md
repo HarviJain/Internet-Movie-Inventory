@@ -2,7 +2,7 @@
 
 ![Demo Image](https://github.com/HarviJain/Internet-Movie-Inventory/blob/main/Demo%20Image.png)
 
-[Live Demo](your_live_demo_link_here)
+[Live Demo](https://harvijain.github.io/Internet-Movie-Inventory/)
 
 ## 🚀 Overview
 

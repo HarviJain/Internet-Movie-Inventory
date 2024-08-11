@@ -10,8 +10,8 @@ const currentPageSpan = document.querySelector("#currentPage");
 
 let currentPage = 1;
 
-const getMovies = async (url) => {
-    const response = await fetch(url);
+const getMovies = async (APIURL) => {
+    const response = await fetch(APIURL);
     const data = await response.json();
     showMovies(data.results);
 };
